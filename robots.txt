@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://juvokamubepu.pages.dev/sitemap.xml
